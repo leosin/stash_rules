@@ -4,6 +4,7 @@ desc: 最后更新时间 2024-10-31 02:15:56
 http:
   force-http-engine:
   - 'ad-r.soulapp.cn:443'
+  - 'soul-ad.soulapp.cn:443'
 
   url-rewrite:
     - ^https?:\/\/ad-r\.soulapp\.cn\/ - reject
