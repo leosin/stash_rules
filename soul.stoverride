@@ -1,0 +1,6 @@
+name: SOUL
+desc: 最后更新时间 2024-10-31 02:15:56
+
+http:
+  rewrite:
+    - ^https?:\/\/ad-r\.soulapp\.cn\/ - reject
